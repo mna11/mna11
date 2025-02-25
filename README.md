@@ -1,16 +1,36 @@
-## Hi there 👋
-
-<!--
-**mna11/mna11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h2>MNA11</h2>
+  <table>
+    <tr>
+      <td colspan="2" align="center"><h3>I am a computer science student who is interested in many ways.</h3></td>
+    </tr>
+    <tr>
+      <th><b>Tel<b></th>
+      <td>
+        <a href = "https://velog.io/@mna11"><img src = "https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white" height = 30 /></a>
+        <a href = "https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZWxpzpTJdfdDClnFtnzwqwnmFfrlGzGNWbjNZcPgGHHMXhfpJTvdvnTHmBmnGTFhwPpbq"><img src = "https://img.shields.io/badge/thkim306@gmail.com-EA4335?style=flat-square&logo=velog&logoColor=white" height = 30 /></a>
+      </td>
+    </tr>
+    <tr>
+      <th><b>Skill</b></th>
+      <td>
+        <img src = "https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" height = 30/>
+        <img src = "https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" height = 30/>  
+        <img src = "https://img.shields.io/badge/SFML-8CC445?style=flat-square&logo=SFML&logoColor=white" height = 30/>  
+        <img src = "https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height = 30/>  
+        <img src = "https://img.shields.io/badge/JAVA-F7DF1E?style=flat-square&logo=openjdk&logoColor=white" height = 30/>  
+      </td>
+    </tr>
+  </table>
+  <br>
+  <table>
+    <tr>
+      <th><b>Github</b></th>
+      <th><b>Algorithm</b></th>
+    </tr>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=mna11"></td>
+      <td><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ele99612"></td>
+    </tr>
+  </table>
+</div>
