@@ -26,9 +26,6 @@
       <td align="center"><a href="https://github.com/mna11/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mna11&amp;layout=donut" alt="Top Langs"></a></td>
     </tr>
   </table>
-
-  <br><br>
-  
   <table>
     <tr>
       <th><b>Github</b></th>
