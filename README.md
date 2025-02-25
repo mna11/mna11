@@ -8,7 +8,7 @@
       <th><b>Tel<b></th>
       <td>
         <a href = "https://velog.io/@mna11"><img src = "https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white" height = 30 /></a>
-        <a href = "https://mail.google.com"><img src = "https://img.shields.io/badge/thkim306@gmail.com-EA4335?style=flat-square&logo=velog&logoColor=white" height = 30 /></a>
+        <a href = "https://mail.google.com"><img src = "https://img.shields.io/badge/thkim306@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" height = 30 /></a>
       </td>
     </tr>
     <tr>
