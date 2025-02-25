@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>MNA👾</h1>
+  <h1>MNA11👾</h1>
   <table>
     <tr>
       <td colspan="2" align="center"><h3>I am a computer science student who is interested in many ways.</h3></td>
@@ -32,8 +32,9 @@
       <th><b>Algorithm</b></th>
     </tr>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=mna11"></td>
-      <td><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ele99612"></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=mna11&amp;show_icons=true&amp;theme=tokyonight" alt="Anurag&#39;s GitHub stats"></td>
+      <td><a href="https://solved.ac/ele99612"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ele99612" alt="Solved.ac
+프로필"></a></td>
     </tr>
   </table>
 </div>
