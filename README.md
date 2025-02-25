@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>MNA11</h2>
+  <h1>MNA11👾</h1>
   <table>
     <tr>
       <td colspan="2" align="center"><h3>I am a computer science student who is interested in many ways.</h3></td>
@@ -8,7 +8,7 @@
       <th><b>Tel<b></th>
       <td>
         <a href = "https://velog.io/@mna11"><img src = "https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white" height = 30 /></a>
-        <a href = "https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZWxpzpTJdfdDClnFtnzwqwnmFfrlGzGNWbjNZcPgGHHMXhfpJTvdvnTHmBmnGTFhwPpbq"><img src = "https://img.shields.io/badge/thkim306@gmail.com-EA4335?style=flat-square&logo=velog&logoColor=white" height = 30 /></a>
+        <a href = "https://mail.google.com"><img src = "https://img.shields.io/badge/thkim306@gmail.com-EA4335?style=flat-square&logo=velog&logoColor=white" height = 30 /></a>
       </td>
     </tr>
     <tr>
@@ -21,8 +21,14 @@
         <img src = "https://img.shields.io/badge/JAVA-F7DF1E?style=flat-square&logo=openjdk&logoColor=white" height = 30/>  
       </td>
     </tr>
+    <tr>
+      <th><b>Most</b></th>
+      <td align="center"><a href="https://github.com/mna11/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mna11&amp;layout=donut" alt="Top Langs"></a></td>
+    </tr>
   </table>
-  <br>
+
+  <br><br>
+  
   <table>
     <tr>
       <th><b>Github</b></th>
