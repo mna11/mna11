@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>MNA11👾</h1>
+  <h1>MNA👾</h1>
   <table>
     <tr>
       <td colspan="2" align="center"><h3>I am a computer science student who is interested in many ways.</h3></td>
