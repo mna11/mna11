@@ -37,4 +37,7 @@
 프로필"></a></td>
     </tr>
   </table>
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/mna11"/>
+  </a>
 </div>
