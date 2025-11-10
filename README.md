@@ -38,11 +38,12 @@
     </tr>
   </table>
 
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=mna11&utm_content=farm">
-    <img
-    src="https://render.gitanimals.org/farms/mna11"
-    width="600"
-    height="300"
-    />
-  </a>
+  <a href="https://www.gitanimals.org/">
+        <img
+          src="https://render.gitanimals.org/guilds/775577520078916569/draw"
+          width="600"
+          height="300"
+          alt="gitanimals"
+        />
+      </a>
 </div>
