@@ -38,6 +38,12 @@
     </tr>
   </table>
 
+
+
+<table>
+  <tr>
+  <th>Git Animals</th>
+  <td>
   <a href="https://www.gitanimals.org/">
         <img
           src="https://render.gitanimals.org/guilds/775577520078916569/draw"
@@ -45,5 +51,22 @@
           height="300"
           alt="gitanimals"
         />
-      </a>
+  </a>
+  </td>
+  </tr>
+  
+  <tr>
+  <th>Contribution City</th>
+  <td>
+  <a href="https://github.com/mna11/contribution-city">
+        <img
+          src="https://raw.githubusercontent.com/mna11/contribution-city/main/contribution-city.svg"
+          width="600"
+          height="400"
+          alt="Contribution City"
+        />
+  </a>
+  </td>
+  </tr>
+  </table>
 </div>
