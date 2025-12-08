@@ -60,7 +60,7 @@
       <td>
         <a href="https://github.com/mna11/contribution-city">
           <img
-            src="https://raw.githubusercontent.com/mna11/contribution-city/main/contribution-city.svg"
+            src="./contribution-city.svg"
             width="600"
             height="355"
             alt="Contribution City"
