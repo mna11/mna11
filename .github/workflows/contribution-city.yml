@@ -1,0 +1,32 @@
+name: Generate Contribution City
+
+on:
+  schedule:
+    - cron: "0 18 * * *"  # 매일 03:00 KST (18:00 UTC)
+  workflow_dispatch:  # 수동 실행 가능
+  
+jobs:
+  build:
+    if: github.repository != 'mna11/contribution-city'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate Contribution City
+        run: node generate-city.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+          GITHUB_USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions[bot]@users.noreply.github.com
+          git add -A .
+          if git commit -m "🏙️ Update contribution city" ; then
+            git push origin HEAD:${{ github.ref_name }}
+          fi
