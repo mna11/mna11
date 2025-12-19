@@ -33,10 +33,10 @@
         <table>
           <tr>
             <th><b>Github</b></th>
-            <th><b>Algorithm</b></th>
+            <td><img src="https://github-readme-stats.vercel.app/api?username=mna11&amp;show_icons=true&amp;theme=tokyonight" alt="Anurag's GitHub stats"></td>
           </tr>
           <tr>
-            <td><img src="https://github-readme-stats.vercel.app/api?username=mna11&amp;show_icons=true&amp;theme=tokyonight" alt="Anurag's GitHub stats"></td>
+            <th><b>Algorithm</b></th>
             <td><a href="https://solved.ac/ele99612"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ele99612" alt="Solved.ac 프로필"></a></td>
           </tr>
         </table>
