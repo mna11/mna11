@@ -23,18 +23,18 @@
               <img src="https://img.shields.io/badge/SFML-8CC445?style=flat-square&logo=SFML&logoColor=white" height="30"/>  
               <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="30"/>  
               <img src="https://img.shields.io/badge/JAVA-F7DF1E?style=flat-square&logo=openjdk&logoColor=white" height="30"/>  
+              <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" height="30"/>
+              <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" height="30"/>
+              <br/>
+              <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="30"/>
+              <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" height="30"/>
+              <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" height="30"/>
+              <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" height="30"/>
+              <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white" height="30"/>
             </td>
-          </tr>
-          <tr>
-            <th><b>Most</b></th>
-            <td align="center"><a href="https://github.com/mna11/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mna11&amp;layout=donut" alt="Top Langs"></a></td>
           </tr>
         </table>
         <table>
-          <tr>
-            <th><b>Github</b></th>
-            <td><img src="https://github-readme-stats.vercel.app/api?username=mna11&amp;show_icons=true&amp;theme=tokyonight" alt="Anurag's GitHub stats"></td>
-          </tr>
           <tr>
             <th><b>Algorithm</b></th>
             <td><a href="https://solved.ac/ele99612"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ele99612" alt="Solved.ac 프로필"></a></td>
