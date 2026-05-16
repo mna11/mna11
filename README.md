@@ -11,8 +11,8 @@
           <tr>
             <th><b>Tel</b></th>
             <td>
-              <a href="https://velog.io/@mna11"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white" height="30" /></a>
               <a href="https://mail.google.com"><img src="https://img.shields.io/badge/thkim306@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" height="30" /></a>
+              <a href="https://mail.google.com"><img src="https://img.shields.io/badge/ele99612@hanyang.ac.kr-0E4A84?style=flat-square&logo=gmail&logoColor=white" height="30" /></a>
             </td>
           </tr>
           <tr>
@@ -33,6 +33,31 @@
               <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white" height="30"/>
             </td>
           </tr>
+          <tr>
+            <th><b>Education & Training</b></th>
+          <td>
+            <table>
+              <tr>
+                <td align="center">
+                  <img src="https://img.shields.io/badge/Hanyang%20University%20ERICA-0E4A84?style=flat-square&logo=handshake&logoColor=white" height="28"/>
+                </td>
+                <td>
+                  Department of Computer Science<br/>
+                  <sub>2022 ~ Present</sub>
+                </td>
+              </tr>
+              <tr>
+                <td align="center">
+                  <img src="https://img.shields.io/badge/LIKELION%2013th-FF7710?style=flat-square&logo=lionair&logoColor=white" height="28"/>
+                </td>
+                <td>
+                  Frontend Development Program<br/>
+                  <sub>Completed</sub>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
         </table>
         <table>
           <tr>
