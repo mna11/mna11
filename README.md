@@ -43,7 +43,7 @@
                 </td>
                 <td>
                   Department of Computer Science<br/>
-                  <sub>2022 ~ Present</sub>
+                  <sub>[In Progress] 2022 ~ Present</sub>
                 </td>
               </tr>
               <tr>
@@ -52,7 +52,7 @@
                 </td>
                 <td>
                   Frontend Development Program<br/>
-                  <sub>Completed</sub>
+                  <sub>[Completed] 2025</sub>
                 </td>
               </tr>
             </table>
