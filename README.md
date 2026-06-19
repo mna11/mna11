@@ -36,26 +36,35 @@
           <tr>
             <th><b>Education & Training</b></th>
           <td>
-            <table>
-              <tr>
-                <td align="center">
-                  <img src="https://img.shields.io/badge/Hanyang%20University%20ERICA-0E4A84?style=flat-square&logo=handshake&logoColor=white" height="28"/>
-                </td>
-                <td>
-                  Department of Computer Science<br/>
-                  <sub>[In Progress] 2022 ~ Present</sub>
-                </td>
-              </tr>
-              <tr>
-                <td align="center">
-                  <img src="https://img.shields.io/badge/LIKELION%2013th-FF7710?style=flat-square&logo=lionair&logoColor=white" height="28"/>
-                </td>
-                <td>
-                  Frontend Development Program<br/>
-                  <sub>[Completed] 2025</sub>
-                </td>
-              </tr>
-            </table>
+          <table>
+            <tr>
+              <td align="center">
+                <img src="https://img.shields.io/badge/Hanyang%20University%20ERICA-0E4A84?style=flat-square&logo=handshake&logoColor=white" height="28"/>
+              </td>
+              <td>
+                Department of Computer Science<br/>
+                <sub>[On Leave] 2022 ~ Present</sub>
+              </td>
+            </tr>
+            <tr>
+              <td align="center">
+                <img src="https://img.shields.io/badge/Jusin%20Game%20Academy%20167th-6E40C9?style=flat-square&logo=unity&logoColor=white" height="28"/>
+              </td>
+              <td>
+                Game Programming Program<br/>
+                <sub>[In Progress] 2026.06 ~ Present</sub>
+              </td>
+            </tr>
+            <tr>
+              <td align="center">
+                <img src="https://img.shields.io/badge/LIKELION%2013th-FF7710?style=flat-square&logo=lionair&logoColor=white" height="28"/>
+              </td>
+              <td>
+                Frontend Development Program<br/>
+                <sub>[Completed] 2025</sub>
+              </td>
+            </tr>
+          </table>
           </td>
         </tr>
         </table>
