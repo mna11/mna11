@@ -60,7 +60,7 @@
                 <img src="https://img.shields.io/badge/LIKELION%2013th-FF7710?style=flat-square&logo=lionair&logoColor=white" height="28"/>
               </td>
               <td>
-                Frontend Development Program<br/>
+                Web Frontend Development Program<br/>
                 <sub>[Completed] 2025</sub>
               </td>
             </tr>
