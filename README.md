@@ -68,12 +68,6 @@
           </td>
         </tr>
         </table>
-        <table>
-          <tr>
-            <th><b>Algorithm</b></th>
-            <td><a href="https://solved.ac/ele99612"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ele99612" alt="Solved.ac 프로필"></a></td>
-          </tr>
-        </table>
       </td>
     </tr>
     <tr>
