@@ -48,7 +48,7 @@
             </tr>
             <tr>
               <td align="center">
-                <img src="https://img.shields.io/badge/Jusin%20Game%20Academy%20167th-6E40C9?style=flat-square&logo=unity&logoColor=white" height="28"/>
+                <img src="https://img.shields.io/badge/Jusin%20Game%20Academy%20168th-6E40C9?style=flat-square&logo=unity&logoColor=white" height="28"/>
               </td>
               <td>
                 Game Programming Program<br/>
